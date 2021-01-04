@@ -11,7 +11,7 @@ function johnLennonFacts(facts){
   var newArray = []
   var i = 0
   while (newArray.length < facts.length){
-    newArray.push(facts[i] + `"!!!"`)
+    newArray.push(facts[i] + `!!!`)
     i++
   }
   return newArray
