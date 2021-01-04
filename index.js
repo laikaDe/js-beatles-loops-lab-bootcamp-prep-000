@@ -19,4 +19,11 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(num){
   var newArray =[]
+  var i = 0
+  do {
+    i ++
+    newArray = newArray + i
+    while (num < 15)
+  }
+
 }
