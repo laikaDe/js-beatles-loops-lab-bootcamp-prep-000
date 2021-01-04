@@ -25,5 +25,5 @@ function iLoveTheBeatles(num){
     newArray = newArray + i
     while (num < 15)
   }
-
+  return newArray
 }
